@@ -53,6 +53,8 @@ This repository contains solutions to coding exercises from the Udemy course:
 │   ├── 📁 04_Circular_Doubly_Linked_List
 │   ├── <a href="https://github.com/abdulaziz7225/complete-dsa-in-python/blob/main/04_Linked_List/Linked_List.py">Linked_List.py</a>
 │   └── <a href="https://github.com/abdulaziz7225/complete-dsa-in-python/blob/main/04_Linked_List/README.md">README.md</a>
+├── 📁 Backtracking
+│   └── <a href="https://github.com/abdulaziz7225/complete-dsa-in-python/blob/main/Backtracking/NQueens.py">NQueens.py</a>
 ├── 📁 Greedy_Algorithms
 │   └── <a href="https://github.com/abdulaziz7225/complete-dsa-in-python/blob/main/Greedy_Algorithms/Activity_Selection_Problem.py">Activity_Selection_Problem.py</a>
 ├── <a href="https://github.com/abdulaziz7225/complete-dsa-in-python/blob/main/LICENSE">LICENSE</a>
